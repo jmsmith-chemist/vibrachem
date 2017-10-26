@@ -1,0 +1,2 @@
+# vibrachem
+Vibrational spectroscopy code
